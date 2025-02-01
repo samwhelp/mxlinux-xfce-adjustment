@@ -17,6 +17,10 @@
 			<property name="plugin-ids" type="array">
 				<value type="int" value="1"/>
 				<value type="int" value="2"/>
+				<value type="int" value="11"/>
+				<value type="int" value="12"/>
+				<value type="int" value="13"/>
+				<value type="int" value="14"/>
 				<value type="int" value="3"/>
 				<value type="int" value="4"/>
 				<value type="int" value="5"/>
@@ -94,6 +98,26 @@
 		<property name="plugin-11" type="string" value="launcher">
 			<property name="items" type="array">
 				<value type="string" value="thunar.desktop"/>
+			</property>
+		</property>
+		<property name="plugin-11" type="string" value="launcher">
+			<property name="items" type="array">
+				<value type="string" value="thunar.desktop"/>
+			</property>
+		</property>
+		<property name="plugin-12" type="string" value="launcher">
+			<property name="items" type="array">
+				<value type="string" value="featherpad.desktop"/>
+			</property>
+		</property>
+		<property name="plugin-13" type="string" value="launcher">
+			<property name="items" type="array">
+				<value type="string" value="firefox.desktop"/>
+			</property>
+		</property>
+		<property name="plugin-14" type="string" value="launcher">
+			<property name="items" type="array">
+				<value type="string" value="xfce4-terminal.desktop"/>
 			</property>
 		</property>
 	</property>
