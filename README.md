@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Mx Linux Xfce Adjustment](https://samwhelp.github.io/mxlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-xfce-adjustment) |
 | [Mx Linux Adjustment](https://samwhelp.github.io/mxlinux-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-adjustment) |
+| [Mx Linux Xfce Note](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
 
 
 
