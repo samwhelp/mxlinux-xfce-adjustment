@@ -4,9 +4,9 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Mx Linux Xfce Adjustment](https://samwhelp.github.io/mxlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-xfce-adjustment) |
-| [Mx Linux Xfce Note](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
-| [Mx Linux Adjustment](https://samwhelp.github.io/mxlinux-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-adjustment) |
+| [MxLinux Xfce Adjustment](https://samwhelp.github.io/mxlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-xfce-adjustment) |
+| [MxLinux Xfce Note](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
+| [MxLinux Adjustment](https://samwhelp.github.io/mxlinux-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-adjustment) |
 
 
 
@@ -23,7 +23,7 @@
 
 | Script |
 | ------ |
-| [Mx Linux Xfce Config](https://github.com/samwhelp/mxlinux-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
+| [MxLinux Xfce Config](https://github.com/samwhelp/mxlinux-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
